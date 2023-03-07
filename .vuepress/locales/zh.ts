@@ -54,6 +54,8 @@ export const sidebar: SidebarConfig = [
       '/we-are-hiring/digital-marketing-manager.md',
       '/we-are-hiring/bd-manager.md',
       '/we-are-hiring/event-manager.md',
+      '/we-are-hiring/community-manager-ambassador-program',
+      '/we-are-hiring/social-media-specialist',
       '/we-are-hiring/chief-evangelist',
       '/zh/we-are-hiring/frontend-engineer',
       '/zh/we-are-hiring/backend-engineer-golang',
